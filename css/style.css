@@ -800,6 +800,7 @@ blockquote {
   border-radius: 50%;
   background-color: #fff;
   background-size: 100%;
+  border: 4px solid #fff;
 }
 .Btn {
   border-bottom: none;
